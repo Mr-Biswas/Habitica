@@ -1,5 +1,5 @@
 # Habitica
-A Self Analyzer Application.
+An Application for Self Analysis.
 
 1. Project Overview
 

@@ -51,7 +51,7 @@ class MyHabitica:
         lbllaunch.grid(row=0, column=0, sticky=W)
         comlaunch = ttk.Combobox(DataFrameLeft, font=(
             "Comic Sans MS", 11, "bold"), width=22, state="readonly",  textvariable=self.Launch_var)
-        comlaunch["value"] = ("2024-12-02")
+        comlaunch["value"] = ("2024-12-05")
         comlaunch.current(0)
         comlaunch.grid(row=0, column=1)
 

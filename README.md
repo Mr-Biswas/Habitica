@@ -25,7 +25,7 @@ Results Display: After data is entered, the application uses a Treeview widget t
 Interactive Buttons: Buttons trigger actions like adding new data, clear the columns for new data entry, read the inserted data. 
 
 Python Backend (Logic)
-"The backend of the application is built in Python, and it handles the logic of interacting with the database, processing user inputs, and running SQL queries:
+  The backend of the application is built in Python, and it handles the logic of interacting with the database, processing user inputs, and running SQL queries:
 
 Data Collection: When the user submits data through the Tkinter interface, Python collects the data from the entry fields and performs initial validation checks (e.g., ensuring fields aren’t empty or that numeric fields contain valid numbers).
 Database Interaction: Python communicates with the SQL database using the mysql.connector for MySQL. It uses SQL queries to insert, select and retrieve data. 
